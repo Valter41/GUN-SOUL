@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: e493aa49a9b8c52468be1e2fad193316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4199285590096684005
+    second: photo_2020-10-24_15-15-40_0
+  - first:
+      213: 2811387129213313875
+    second: photo_2020-10-24_15-15-40_1
+  - first:
+      213: 7121449063071370457
+    second: photo_2020-10-24_15-15-40_2
+  - first:
+      213: 6895653048839393012
+    second: photo_2020-10-24_15-15-40_3
+  - first:
+      213: -4255934523867492045
+    second: photo_2020-10-24_15-15-40_4
+  - first:
+      213: 8746839627421548962
+    second: photo_2020-10-24_15-15-40_5
+  - first:
+      213: 8218884420656064216
+    second: photo_2020-10-24_15-15-40_6
+  - first:
+      213: -8202493553563911700
+    second: photo_2020-10-24_15-15-40_7
+  - first:
+      213: 352471484671627973
+    second: photo_2020-10-24_15-15-40_8
+  - first:
+      213: 8342240460416172089
+    second: photo_2020-10-24_15-15-40_9
+  - first:
+      213: 6104891875006159397
+    second: photo_2020-10-24_15-15-40_10
+  - first:
+      213: -4753963160552312922
+    second: photo_2020-10-24_15-15-40_11
+  - first:
+      213: -2823005628688526974
+    second: photo_2020-10-24_15-15-40_12
+  - first:
+      213: 3910944315745837159
+    second: photo_2020-10-24_15-15-40_3
+  - first:
+      213: 9101253394286264895
+    second: photo_2020-10-24_15-15-40_4
+  - first:
+      213: 7413308812954105696
+    second: photo_2020-10-24_15-15-40_6
+  - first:
+      213: 2792361184432550796
+    second: photo_2020-10-24_15-15-40_7
+  - first:
+      213: -611880473184162312
+    second: photo_2020-10-24_15-15-40_9
+  - first:
+      213: -2294528602021341324
+    second: photo_2020-10-24_15-15-40_10
+  - first:
+      213: -4598257699481424530
+    second: photo_2020-10-24_15-15-40_2
+  - first:
+      213: -3523296061983068793
+    second: photo_2020-10-24_15-15-40_5
+  - first:
+      213: 7308632408656885306
+    second: photo_2020-10-24_15-15-40_8
+  - first:
+      213: 3611190497463811103
+    second: photo_2020-10-24_15-15-40_0
+  - first:
+      213: -4788926186421538704
+    second: photo_2020-10-24_15-15-40_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602d545227764630800000000000000
+      internalID: 3910944315745837159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 45
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f324049ddb52e4e70800000000000000
+      internalID: 9101253394286264895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 75
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb891ef968d1230800000000000000
+      internalID: 3611190497463811103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 49
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d64b42cf4bf20c0800000000000000
+      internalID: -4598257699481424530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 152
+        width: 46
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07037ca91015a8db0800000000000000
+      internalID: -4788926186421538704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 162
+        width: 48
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d67fa16ecba1fc0800000000000000
+      internalID: -3523296061983068793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 166
+        width: 63
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f666861d51e660800000000000000
+      internalID: 7413308812954105696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 317
+        width: 66
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f0b2e3b570c620800000000000000
+      internalID: 2792361184432550796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photo_2020-10-24_15-15-40_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 308
+        width: 51
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b6efe37a7d6560800000000000000
+      internalID: 7308632408656885306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
